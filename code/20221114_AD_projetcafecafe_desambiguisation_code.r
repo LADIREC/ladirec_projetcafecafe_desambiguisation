@@ -907,4 +907,3 @@ webshot::webshot("1.html","Visualisation_Nuage_MotsClésSimilaires_café6.png",v
   cols_hide(columns = c(term1))
 gtsave(Tableau_MotsClésSimilaires_café6, "Visualisation_Tableau_MotsClésSimilaires_café6.png")
       webshot::install_phantomjs()
-
