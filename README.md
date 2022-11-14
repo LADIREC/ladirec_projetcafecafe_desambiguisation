@@ -1,4 +1,4 @@
-# ladirec_projetcafecafe_desambiguisation
+# Projet « café-café » (désambiguisation)
 Le projet « café-café » avait pour but de désambiguïser deux termes, « café » le lieu et « café » la chose (breuvage, grain, industrie…), afin d’aider à repérer automatiquement les mentions d’emplacements géographiques dans les textes analysés par le Laboratoire d’analyse des discours et récits collectifs (LADIREC). 
 
 En utilisant un corpus médiatique sur l’alimentation composé de 46 513 articles récoltés par le LADIREC, nous avons d’abord réduit le nombre de textes en conservant seulement ceux dans lesquels nous avons trouvé, grâce à une expression régulière, certaines variations du mot « café » (avec ou sans accent/majuscule/marque du pluriel). 
